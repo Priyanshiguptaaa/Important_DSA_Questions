@@ -16,7 +16,11 @@
 
 - GeeksforGeeks DetectLoopLL Problem Link : https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1
 
-- GeeksforGeeks RemoveLoopLL Problem Link : https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1
+- <b>[IMP]</b> GeeksforGeeks RemoveLoopLL Problem Link : https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1
+
+- GeeksforGeeks FirstRootNodeLL Problem Link : https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/
+
+- GeeksforGeeks RemoveDupSortLL Problem Link : https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1
 
 ### 6. Binary Trees (35)
 
