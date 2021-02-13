@@ -1,6 +1,6 @@
 # Important_DSA_Questions
 
-### 1. Arrays & vectors (36)
+### 1. Arrays & vectors (Done: 0/36)
 
 - GeeksforGeeks ReverseArr Problem Link : https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/
 
@@ -12,7 +12,7 @@
 
 ### 4. Searching & Sorting (36)
 
-### 5. Linked List (37)
+### 5. Linked List (Done: 7/37)
 
 - GeeksforGeeks ReverseLL Problem Link (Iterative + Recursive) : https://www.geeksforgeeks.org/reverse-a-linked-list/
 
