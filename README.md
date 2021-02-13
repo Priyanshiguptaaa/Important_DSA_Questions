@@ -2,13 +2,17 @@
 
 ### 1. Arrays & vectors (36)
 
+- GeeksforGeeks ReverseArr Problem Link : https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/
+
+- GeeksforGeeks GetMaxMin Problem Link : https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/
+
 ### 2. Matrix (10)
 
 ### 3. Strings (44)
 
 ### 4. Searching & Sorting (36)
 
-### 5. Linked List (36)
+### 5. Linked List (37)
 
 - GeeksforGeeks ReverseLL Problem Link (Iterative + Recursive) : https://www.geeksforgeeks.org/reverse-a-linked-list/
 
