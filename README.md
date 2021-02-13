@@ -10,13 +10,13 @@
 
 ### 5. Linked List (36)
 
-- GeeksforGeeks ReverseLL Problem Link: https://www.geeksforgeeks.org/reverse-a-linked-list/
+- GeeksforGeeks ReverseLL Problem Link (Iterative + Recursive) : https://www.geeksforgeeks.org/reverse-a-linked-list/
 
-- <b>[V.V.V.IMP]</b> GeeksforGeeks ReverseLLGroup Problem Link: https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1
+- <b>[V.V.V.IMP]</b> GeeksforGeeks ReverseLLGroup Problem Link : https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1
 
-- GeeksforGeeks DetectLoopLL Problem Link: https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1
+- GeeksforGeeks DetectLoopLL Problem Link : https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1
 
-- GeeksforGeeks RemoveLoopLL Problem Link: https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1
+- GeeksforGeeks RemoveLoopLL Problem Link : https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1
 
 ### 6. Binary Trees (35)
 
