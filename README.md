@@ -12,7 +12,7 @@
 
 - GeeksforGeeks ReverseLL Problem Link: https://www.geeksforgeeks.org/reverse-a-linked-list/
 
-- [V.V.V.IMP] GeeksforGeeks ReverseLLGroup Problem Link: https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1
+- <b>[V.V.V.IMP]</b> GeeksforGeeks ReverseLLGroup Problem Link: https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1
 
 ### 6. Binary Trees (35)
 
