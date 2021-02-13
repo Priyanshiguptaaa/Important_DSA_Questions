@@ -22,6 +22,10 @@
 
 - GeeksforGeeks RemoveDupSortLL Problem Link : https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1
 
+- GeeksforGeeks RemoveDupUnsortLL Problem Link : https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1
+
+- GeeksforGeeks MovetoFrontLL Problem Link : https://www.geeksforgeeks.org/move-last-element-to-front-of-a-given-linked-list/
+
 ### 6. Binary Trees (35)
 
 ### 7. Binary Search Tree (22)
