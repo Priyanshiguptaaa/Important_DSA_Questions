@@ -40,6 +40,8 @@
 
 ### 10. Stacks & Queues (38)
 
+- GeeksforGeeks TwoStackArr Problem Link : https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1
+
 ### 11. Heaps (18)
 
 ### 12. Graphs (44)
