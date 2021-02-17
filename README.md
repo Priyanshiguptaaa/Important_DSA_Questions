@@ -41,6 +41,7 @@
 ### 10. Stacks & Queues (38)
 
 - GeeksforGeeks TwoStackArr Problem Link : https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1
+- GeeksforGeeks BalancedParanthesis Problem Link : https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1
 
 ### 11. Heaps (18)
 
